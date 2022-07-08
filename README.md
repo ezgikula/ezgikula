@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ezgi</h1>
+<h1 align="center">Hi 👋, My name is Ezgi</h1>
 <h3 align="center">I'm IOS developer.</h3>
 
 - 🌱 I’m currently learning **Swift, UIKit**
